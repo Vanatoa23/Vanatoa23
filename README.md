@@ -11,8 +11,9 @@ My main interests are:
 ## Projects
 
 ### Arhiiver
-A private project I've been developing and one of the projects I'm most proud of. 
-The source code is currently kept private.
+Arhiiver is an AI-powered personal and family history platform for preserving interviews, source recordings, transcripts, structured historical knowledge, timelines, and biographies.
+
+The project currently focuses on Estonian-language interviews and keeps original source material separate from AI-derived interpretations. The source code is kept private.
 
 ### AI Hackathon
 Participated in an AI hackathon in Riga with friends, where we built a working
